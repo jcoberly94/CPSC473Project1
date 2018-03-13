@@ -62,8 +62,3 @@ img:hover {
 	transform: translateX(100%); 
 }
 
-/* -- Logo ---------- */
-
-.logo:hover {
-	transform: rotate(-20deg);
-}
